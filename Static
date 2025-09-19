@@ -1,0 +1,11 @@
+class main
+{
+    static{
+        System.out.println("Static block intalized ");
+        
+    }
+    public static void main(String[] args)
+    {
+        System.out.println("form main ");
+    }
+}
